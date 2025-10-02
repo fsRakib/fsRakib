@@ -39,11 +39,40 @@
 |:--------------------------:|:-------------------------------:|:-------------------------------------------:|:----------------------:|
 | C, Python, Java, JS, TS    | React, Next.js, Node.js, Tailwind, NextAuth, LangChain | Git, Hugging Face, Gen-AI API, Cloudinary, TipTap Editor      | MongoDB, MySQL, Convex, Vector DB  |
 
-<p>
-  <img src="https://img.shields.io/badge/Problem%20Solving-300%2B%20problems-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Node.js-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Gemini%20%7C%20LangChain-fc0?logo=artificial-intelligence&logoColor=white&style=for-the-badge"/>
+<!-- Skills and Tech Icons -->
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
+<p align="center">
+  <!-- Frameworks & Technologies -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-232F3E?style=flat&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-FFC107?style=flat&logo=chainlink&logoColor=black"/>
+</p>
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Convex-5D87BF?style=flat"/>
+  <img src="https://img.shields.io/badge/VectorDB-005571?style=flat"/>
+</p>
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-fcc624?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GenAI-00B4D8?style=flat"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TipTap-301934?style=flat"/>
+</p>
+
 
 ---
 
